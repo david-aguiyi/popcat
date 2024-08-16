@@ -498,7 +498,7 @@ img#comm {
     /* padding-bottom: 0.2rem; */
     white-space: nowrap;
     /* line-height: 2em; */
-    font-size: 3.6em;
+    font-size: 3em;
     color: #ffffff;
     margin-top: 5rem;
     word-spacing: 10px;
@@ -1350,7 +1350,7 @@ img.right-img {
     button {
         width: 200px;
         height: 60px;
-        font-size: 3rem;
+        /* font-size: 3rem; */
         color: white;
         /* padding-left: 50px; */
         /* padding-inline: 30px; */
@@ -1646,7 +1646,7 @@ img.right-img {
     }
 
     .buttons button {
-        width: 30rem;
+        width: 20rem;
         height: 60px;
         margin-top: 20px;
         border: 2px solid black;
